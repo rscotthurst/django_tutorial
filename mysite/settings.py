@@ -25,7 +25,7 @@ SECRET_KEY = '3a)&9bo7m6@#^wa&*77_nelac8k%+%4y4_)7tmtj#s9n4btp&t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['0.0.0.0', 'localhost', '127.0.0.1', 'django-voting.onrender.com']
 
 
 # Application definition
